@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-// import Questions from './QuestionList'
 import QuestionList from './QuestionList';
 import QuizCSS from './Quiz.css'
 
